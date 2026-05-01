@@ -8,26 +8,7 @@
 
 Вы - красный на номере 9. Игрок 10 (шериф) убит в первую ночь с проверкой: **9 — красный**.
 
-```mermaid
-graph LR
-    subgraph "За столом"
-        direction LR
-        P1((1)) --- P2((2)) --- P3((3)) --- P4((4)) --- P5((5))
-        P10(("10 ✕")) --- P9((9)) --- P8((8)) --- P7((7)) --- P6((6))
-    end
-
-    classDef dead fill:white,stroke:black,color:black,stroke-width:2px
-    classDef me fill:darkred,stroke:black,color:white,stroke-width:2px
-    classDef known fill:red,stroke:black,color:white
-    classDef pair fill:yellow,stroke:black,color:black,stroke-dasharray: 4 4
-    classDef target fill:pink,stroke:black,color:black
-
-    class P10 dead
-    class P9 me
-    class P8 known
-    class P1,P2,P3,P4 pair
-    class P5,P6,P7 target
-```
+![Расклад: 10 убит, 9 — я, 8 красный, {1–4} парные ограничения, {5–7} цель](seats-9-killed-10.svg)
 
 **Легенда.** Все круги с чёрной окружностью. Белый круг с крестиком поверх — мёртвый. Тёмно-красный — я. Красный — точно красный. Жёлтый пунктир — связан парным ограничением. Розовый — целевая группа.
 
