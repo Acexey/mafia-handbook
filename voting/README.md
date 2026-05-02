@@ -10,7 +10,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>Деления</strong></td>
+      <td><strong>Деление</strong></td>
       <td><a href="../assets/axe.gif">axe.gif</a></td>
       <td><a href="divisions/README.md">divisions</a></td>
     </tr>
