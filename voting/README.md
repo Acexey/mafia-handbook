@@ -11,7 +11,7 @@
   <tbody>
     <tr>
       <td><strong>Деления</strong></td>
-      <td><a href="../assets/axe.png">axe.png</a></td>
+      <td><a href="../assets/axe.gif">axe.gif</a></td>
       <td><a href="divisions/README.md">divisions</a></td>
     </tr>
     <tr>
