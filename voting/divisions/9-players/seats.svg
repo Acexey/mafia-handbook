@@ -32,6 +32,6 @@
   <circle cx="171.4" cy="146.8" r="32" fill="#DC3545" stroke="#A0202D" stroke-width="2"/>
   <text x="171.4" y="154.8" text-anchor="middle" font-size="22" fill="#FFFFFF" font-weight="bold" font-family="Arial, sans-serif">9</text>
 
-  <text x="364" y="86" text-anchor="middle" font-size="12" fill="#555555" font-family="Arial, sans-serif">не два чёрных</text>
+  <text x="400" y="100" text-anchor="middle" font-size="12" fill="#555555" font-family="Arial, sans-serif">не два чёрных</text>
   <text x="540" y="338" text-anchor="middle" font-size="12" fill="#555555" font-family="Arial, sans-serif">не два чёрных</text>
 </svg>
