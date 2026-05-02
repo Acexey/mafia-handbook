@@ -7,6 +7,7 @@
     * [При 9 игроках](voting/divisions/9-players/README.md)
       * [Проверенный красный у ПУ шерифа](voting/divisions/9-players/checked-red-killed-sheriff.md)
     * [При 8 игроках](voting/divisions/8-players/README.md)
+      * [Деление четверых при закрытых версиях](voting/divisions/8-players/four-closed-versions.md)
     * [При 7 игроках](voting/divisions/7-players/README.md)
     * [При 6 игроках](voting/divisions/6-players/README.md)
     * [При 5 игроках](voting/divisions/5-players/README.md)
