@@ -16,7 +16,7 @@
     </tr>
     <tr>
       <td><strong>Свободное голосование</strong></td>
-      <td><a href="../assets/ballot.png">ballot.png</a></td>
+      <td><a href="../assets/polls.gif">polls.gif</a></td>
       <td><a href="free-voting/README.md">free-voting</a></td>
     </tr>
   </tbody>
