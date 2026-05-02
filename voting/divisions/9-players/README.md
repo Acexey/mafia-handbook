@@ -11,7 +11,7 @@
   <tbody>
     <tr>
       <td><strong>Проверенный красный у ПУ шерифа: деление в сторону</strong></td>
-      <td><a href="seats.svg">seats.svg</a></td>
+      <td><a href="checked-red-killed-sheriff-cover.svg">checked-red-killed-sheriff-cover.svg</a></td>
       <td><a href="checked-red-killed-sheriff.md">checked-red-killed-sheriff</a></td>
     </tr>
   </tbody>
