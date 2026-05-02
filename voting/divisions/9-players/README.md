@@ -1,3 +1,18 @@
 # Деления при 9 игроках
 
-* [Проверенный красный у ПУ шерифа: деление в сторону](checked-red-killed-sheriff.md)
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th data-hidden data-card-cover data-type="files"></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Проверенный красный у ПУ шерифа: деление в сторону</strong></td>
+      <td><a href="seats.svg">seats.svg</a></td>
+      <td><a href="checked-red-killed-sheriff.md">checked-red-killed-sheriff</a></td>
+    </tr>
+  </tbody>
+</table>
