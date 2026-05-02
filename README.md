@@ -10,14 +10,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>Деления</strong></td>
-      <td><a href="assets/gun.png">gun.png</a></td>
-      <td><a href="divisions/README.md">divisions</a></td>
+      <td><strong>Голосование</strong></td>
+      <td><a href="assets/ballot.png">ballot.png</a></td>
+      <td><a href="voting/README.md">voting</a></td>
     </tr>
     <tr>
-      <td><strong>Свободное голосование</strong></td>
-      <td><a href="assets/ballot.png">ballot.png</a></td>
-      <td><a href="free-voting/README.md">free-voting</a></td>
+      <td><strong>Стрельба</strong></td>
+      <td><a href="assets/gun.png">gun.png</a></td>
+      <td><a href="shooting/README.md">shooting</a></td>
     </tr>
   </tbody>
 </table>
